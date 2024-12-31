@@ -15,3 +15,4 @@
 /Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.pdb
 /Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.genruntimeconfig.cache
 /Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/ref/RPG-game.dll
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.sourcelink.json
