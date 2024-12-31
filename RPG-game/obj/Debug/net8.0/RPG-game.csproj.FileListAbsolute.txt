@@ -1,0 +1,17 @@
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/RPG-game
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/RPG-game.deps.json
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/RPG-game.runtimeconfig.json
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/RPG-game.dll
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/RPG-game.pdb
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/bin/Debug/net8.0/Spectre.Console.dll
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.csproj.AssemblyReference.cache
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.AssemblyInfoInputs.cache
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.AssemblyInfo.cs
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.csproj.CoreCompileInputs.cache
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.csproj.Up2Date
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.dll
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/refint/RPG-game.dll
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.pdb
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/RPG-game.genruntimeconfig.cache
+/Users/skymmel/RiderProjects/RPG-game/RPG-game/obj/Debug/net8.0/ref/RPG-game.dll
