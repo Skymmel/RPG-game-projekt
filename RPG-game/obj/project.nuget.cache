@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aA2Pi9lPnh8=",
+  "dgSpecHash": "VBCPNyLQYNM=",
   "success": true,
-  "projectFilePath": "/Users/skymmel/RiderProjects/RPG-game/RPG-game/RPG-game.csproj",
+  "projectFilePath": "C:\\Users\\micha\\RiderProjects\\RPG-game-projekt\\RPG-game\\RPG-game.csproj",
   "expectedPackageFiles": [
-    "/Users/skymmel/.nuget/packages/spectre.console/0.49.2-preview.0.69/spectre.console.0.49.2-preview.0.69.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.69\\spectre.console.0.49.2-preview.0.69.nupkg.sha512"
   ],
   "logs": []
 }
