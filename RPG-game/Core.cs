@@ -29,7 +29,7 @@ public partial class Core
         Prints.ClearConsole();
         Prints.ChatToPlayer($"{{YELLOW}} {Name}");
 
-        Health = 100;
+        Health = 3;
         
         while (Health > 0)
         {
@@ -70,11 +70,11 @@ public partial class Core
         Prints.ChatToPlayer($"{{BOLD}}{{YELLOW}}{_player.Name.ToUpper()}");
 
         // Vypisuje zdraví hráče jako srdce
-        string healthIcons = string.Join(" ", new string[_player.Health].Select(_ => "\u2665"));
+        string healthIcons = string.Join(" ", new string[_player.Health].Select(_ => "<3"));
         Prints.ChatToPlayer($"{{RED}}{healthIcons}");
 
         // Vypisuje útok hráče jako blesky
-        string attackIcons = string.Join(" ", new string[_player.Attack].Select(_ => "\u26a1"));
+        string attackIcons = string.Join(" ", new string[_player.Attack].Select(_ => "!"));
         Prints.ChatToPlayer($"{{YELLOW}}{attackIcons}");
     }
 

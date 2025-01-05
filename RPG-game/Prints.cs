@@ -92,7 +92,9 @@ public static class Prints
         // Výstup textu
         if (isBold)
         {
-            Console.WriteLine(input.ToUpper()); // Simulace "tučného" textu velkými písmeny
+            // Zachování emoji a tisk velkými písmeny
+            var result = string.Concat(input.Select(c => char.IsLetter(c) ? char.ToUpper(c) : c));
+            Console.WriteLine(result);
         }
         else
         {
