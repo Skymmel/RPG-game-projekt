@@ -44,19 +44,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\micha\\.nuget\\packages\\": {}
+    "/Users/skymmel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\RPG-game-projekt\\RPG-game\\RPG-game.csproj",
+      "projectUniqueName": "/Users/skymmel/Downloads/RPG-game-projekt/RPG-game/RPG-game.csproj",
       "projectName": "RPG-game",
-      "projectPath": "C:\\Users\\micha\\RiderProjects\\RPG-game-projekt\\RPG-game\\RPG-game.csproj",
-      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\RiderProjects\\RPG-game-projekt\\RPG-game\\obj\\",
+      "projectPath": "/Users/skymmel/Downloads/RPG-game-projekt/RPG-game/RPG-game.csproj",
+      "packagesPath": "/Users/skymmel/.nuget/packages/",
+      "outputPath": "/Users/skymmel/Downloads/RPG-game-projekt/RPG-game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/skymmel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -106,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\micha\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
